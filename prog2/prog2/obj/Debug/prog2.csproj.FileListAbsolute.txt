@@ -1,0 +1,8 @@
+C:\pro1\prog2\prog2\obj\Debug\prog2.csproj.AssemblyReference.cache
+C:\pro1\prog2\prog2\obj\Debug\prog2.csproj.SuggestedBindingRedirects.cache
+C:\pro1\prog2\prog2\obj\Debug\prog2.csproj.CoreCompileInputs.cache
+C:\pro1\prog2\prog2\bin\Debug\prog2.exe.config
+C:\pro1\prog2\prog2\bin\Debug\prog2.exe
+C:\pro1\prog2\prog2\bin\Debug\prog2.pdb
+C:\pro1\prog2\prog2\obj\Debug\prog2.exe
+C:\pro1\prog2\prog2\obj\Debug\prog2.pdb

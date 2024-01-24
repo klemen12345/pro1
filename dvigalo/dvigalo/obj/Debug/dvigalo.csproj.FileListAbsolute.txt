@@ -1,0 +1,8 @@
+C:\pro1\dvigalo\dvigalo\bin\Debug\dvigalo.exe.config
+C:\pro1\dvigalo\dvigalo\bin\Debug\dvigalo.exe
+C:\pro1\dvigalo\dvigalo\bin\Debug\dvigalo.pdb
+C:\pro1\dvigalo\dvigalo\obj\Debug\dvigalo.csproj.AssemblyReference.cache
+C:\pro1\dvigalo\dvigalo\obj\Debug\dvigalo.csproj.SuggestedBindingRedirects.cache
+C:\pro1\dvigalo\dvigalo\obj\Debug\dvigalo.csproj.CoreCompileInputs.cache
+C:\pro1\dvigalo\dvigalo\obj\Debug\dvigalo.exe
+C:\pro1\dvigalo\dvigalo\obj\Debug\dvigalo.pdb
